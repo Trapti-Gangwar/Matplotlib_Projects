@@ -2,10 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 '''
-#Sales Data Analysis and Reporting:
-1.Industry: Retail, E-commerce, Manufacturing
-2.Project Description:Analyze sales transaction data to identify trends, top-selling products, customer behavior, and regional performance. Generate insightful reports and visualizations to support business decision-making.
-3.Potential Tasks:
+1.Potential Tasks:
     * Load and clean sales data from CSV or other formats using Pandas.
     * Calculate key metrics such as total sales, average order value, sales growth rate, and profit margins.
     * Group sales data by product category, region, customer segment, and time periods.
@@ -14,7 +11,7 @@ import numpy as np
     * Analyze customer purchasing patterns and identify popular product combinations.
     * Create scatter plots to explore relationships between variables like price and sales quantity.
     * Generate automated sales reports with key findings and visualizations.
-4.Sample Dataset (Illustrative - you can find many more on Kaggle or other open data sources)
+2.Sample Dataset (Illustrative - you can find many more on Kaggle or other open data sources)
 '''
 
 data = {
